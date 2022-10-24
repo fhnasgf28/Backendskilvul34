@@ -44,7 +44,7 @@
                   />
                   <a href="#" class="forgot">Forgot Password</a>
                   <input type="submit" value="Login" name="" id="" />
-                  <p>Belum Punya Akun ? <a href="/Backendskilvul34/assets/html/registrasi.html">Daftar disini</a></p>
+                  <p>Belum Punya Akun ? <a href="/assets/html/registrasi.html">Daftar disini</a></p>
                 </form>
               </div>
       
