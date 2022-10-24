@@ -33,10 +33,10 @@ async function tampilHome(){
              <img src="https://jurnalpost.com/wp-content/uploads/2022/05/Penyandang-Disabilitas.jpg" class="d-block w-100 img-fluid rounded" alt="...">
            </div>
            <div class="carousel-item">
-             <img src="/asset/Gambar17Agustus.jpg" class="d-block w-100 img-fluid rounded" alt="...">
+             <img src="https://jurnalpost.com/wp-content/uploads/2022/05/Penyandang-Disabilitas.jpg" class="d-block w-100 img-fluid rounded" alt="...">
            </div>
            <div class="carousel-item">
-             <img src="/asset/Gambar17Agustus.jpg" class="d-block w-100 img-fluid rounded" alt="...">
+             <img src="https://jurnalpost.com/wp-content/uploads/2022/05/Penyandang-Disabilitas.jpg" class="d-block w-100 img-fluid rounded" alt="...">
            </div>
          </div>
          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

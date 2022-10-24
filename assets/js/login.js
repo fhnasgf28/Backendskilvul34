@@ -19,7 +19,7 @@ async function GetLogin(email,password){
         localStorage.setItem("Email", user.email)
         localStorage.setItem("Username", user.username)
         alert("Berhasil Login");
-        window.location.href = "home.html";
+        window.location.href = "/Backendskilvul34/assets/html/home.html";
         // let ambilID = localStorage.getItem("ID");
         // let ambildata = JSON.parse(ambilID)
         // console.log(ambildata)

@@ -20,7 +20,7 @@ async function tampilHome(){
           tampung.innerHTML = `
           
           <div class="thumbnail">
-          <img src="assets/img/gambar4.jpg">
+          <img src="/Backendskilvul34/assets/img/gambar4.jpg">
         
         <div class="caption">
           <h3>${ element.nama}</h3>
